@@ -3,3 +3,6 @@ this is a git class
 this is relase branch
 
 pushing branch from local to remote
+
+
+deleting branch in remote repo
